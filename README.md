@@ -1,6 +1,4 @@
-# ImersaoDados_Alura
-<br>
-## O que foi essa imersão?
+# O que foi essa imersão?
 ---
 <p>
   Nessa imersão da Alura tivemos 4 aulas, sendo as 3 primeiras voltadas à comandos no python de como tratar uma base de dados e na última um site (código feito pelos professores) com gráficos a respeito da base de dados. Caso queira acessar o site, o link se encontra na descrição ou <a href="https://siteimersaodadosalura.streamlit.app/">Clique aqui</a>.
