@@ -1,7 +1,3 @@
-#.venv_imersaoDados\Scripts\Activate
-
-#palavra chave do dia: Alura
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -141,4 +137,5 @@ with col_graf4:
 st.subheader("Dados Detalhados")
 st.dataframe(df_filtrado)
      
+
 
