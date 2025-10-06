@@ -46,12 +46,12 @@ Siga os passos abaixo para rodar a aplicação na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/Leturnos/alura-data-immersion-python.git
+    git clone https://github.com/Leturnos/alura-python-data-immersion.git
     ```
 
 2.  **Acesse a pasta do projeto:**
     ```bash
-    cd alura-data-immersion-python
+    cd alura-python-data-immersion
     ```
 
 3.  **(Opcional, mas recomendado) Crie e ative um ambiente virtual:**
